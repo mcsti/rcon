@@ -1,0 +1,6 @@
+name: Rcon
+version: @version@
+main: com.github.mcsti.rcon.Main
+api-version: 1.16
+authors: [ enimaloc ]
+description: Provide a connection between Discord and Minecraft
